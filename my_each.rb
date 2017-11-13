@@ -3,8 +3,8 @@ def my_each(num)
 
   while x > array.length
   yield(array[i])
-  puts # IDEA: 
+  print # IDEA:
 end
-   
+
   # code here
 end
